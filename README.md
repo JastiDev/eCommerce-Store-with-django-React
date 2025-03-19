@@ -101,8 +101,3 @@ The project will be soon deployed to a live server.
 
 ## The project status
 The development of the project is finished. The project will be soon deployed to a live server.
-
-## Other information
-Author [**Bartłomiej Filipowicz**](https://github.com/Bartlomiej-Filipowicz)
-
-Email <ins>filipowicz@student.agh.edu.pl</ins>
